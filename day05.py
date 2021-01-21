@@ -15,6 +15,7 @@ print('item2 = {}'.format(item2))
 item3 = {num: num ** 2 for num in range(1,10)}
 print('item3 = {}'.format(item3))
 
+'''
 # 通過鍵可以獲取字典中對應的值
 print('Raymond in scores value = {}'.format(scores['Raymond']))
 
@@ -42,6 +43,8 @@ print(scores.pop('Wlan'))
 # 清空字典
 scores.clear()
 print(scores)
+
+'''
 ###################################################
 ###################################################
 ###################################################
